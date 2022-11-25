@@ -5,6 +5,7 @@
     "display":"standalone",
     "theme_color":"#FFDF00",
     "background_color":"#FFDF00",
+    "homepage": "https://daniel-rugerio-trejo.github.io/ProductoDos-PWA/",
     "icons":[
         {
             "src":"iconos/homescreen192.png",
