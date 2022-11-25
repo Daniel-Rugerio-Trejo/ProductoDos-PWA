@@ -1,5 +1,5 @@
 {
-    "name":"Producto Dos",
+    "name":"ProductoDos-PWA",
     "short_name":"PWA",
     "start_url":"./index.html",
     "display":"standalone",
