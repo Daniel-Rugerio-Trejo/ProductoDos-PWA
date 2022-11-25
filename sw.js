@@ -17,7 +17,6 @@ self.addEventListener(
                             './iconos/homescreen192.png'
                         ]
                     );
-                    console.log('Cache añadido');
                 }
             )
         );
