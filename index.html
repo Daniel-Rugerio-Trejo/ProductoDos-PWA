@@ -74,13 +74,11 @@
                 navigator.serviceWorker.register('sw.js')
                 .then(
                     function(registration){
-                        alert('Reg. satisfactorio del sw');
                         console.log('Registro satisfactorio del sw en el ámbito: ',
                                     registration.scope);
                     }
                 ).catch(
                     function(err){
-                        alert('El SW no se registró',err);
                         console.log('El SW no se registró', err);
                     }
                 );
